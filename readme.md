@@ -4,11 +4,11 @@ Here is the fourth assignment in the series of real-time scenarios. In this assi
 
 
 Scenario:
-Open any browser of your choice (Mozilla firefox, Chrome, Internet Explorer or Safari). Write the code in such a way that based on the argument passed respective browser is selected.
+Open any browser of your choice (Mozilla firefox, Chrome, Internet Explorer or Safari). Write the code in such a way that based on the argument passed respective browser is selected.<br>
 Browse to https://in.ebay.com/ website.
 Enter a product in the search box on the homepage (say Apple Watches).
 From the categories dropdown, select the category of your product (say Electronics).
-Click the Search button.
+Click the Search button.<br>
 Write a method to print the result of the product.
 Write a method to print Nth product say 10th Product. (This should be a generic method)
 Write a method to print all products from 1st page.
